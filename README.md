@@ -28,7 +28,7 @@ An app for booking meeting room build with vue and element-ui
 # Useage
 
 ```shell
-git clone https://github.com/lzjlxebr/meetingroom_web.git && cd meetingroom_web
+git clone https://github.com/rajdeepdav/MeetingRoom_UI_Design/blob/main/README.md && meetingroom
 
 npm install
 
